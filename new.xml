@@ -1,6 +1,8 @@
-<Last name>Adilgareev<Last name>
-<First name>Denis<First name>
-<Patronymic>Efimovich<Patronymic>
-<age>33<age>
-<number of pets>1<number of pets>
-<future desired salary>80000<future desired salary>
+<xml>
+    <Last_name>Adilgareev</Last_name>
+    <First_name>Denis</First_name>
+    <Patronymic>Efimovich</Patronymic>
+    <age>33</age>
+    <number_of_pets>1</number_of_pets>
+    <future_desired_salary>80000</future_desired_salary>
+</xml>
